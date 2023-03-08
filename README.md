@@ -1,2 +1,1 @@
-# cypress-typescript-ui-test
-Example of Cypress UI tests using TypeScript
+# Example of Cypress UI tests using TypeScript
