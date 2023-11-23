@@ -7,8 +7,10 @@ module.exports = defineConfig({
 		setupNodeEvents(on, config) {
 			// implement node event listeners here
 		},
-		baseUrl: 'https://nimbleapproach.com/',
+		baseUrl: 'https://www.demoblaze.com',
 		viewportHeight: 1080,
-		viewportWidth: 1920
+		viewportWidth: 1920,
+		testIsolation: false,
+		watchForFileChanges: false,
 	},
 });
